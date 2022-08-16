@@ -20,7 +20,7 @@ Multi-Page database query view.
 Users can log in with different permissions for different accesibility in the app.\
 Viewer permissions can search and view the database information.\
 Editor permissions can update existing information.\
-Admin permissions can add and delete information.\
+Admin permissions can add and delete information.
 
 ### Future Features
 
