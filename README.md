@@ -13,8 +13,10 @@ Web app will contain simple views, complexity in data normalization and sql join
 Landing page view.
 Login/register view.
 Multi-Page database query view.
+
     + sub view add form
     + sub view edit form
+
 404 view.
 
 Users can log in with different permissions for different accesibility in the app.
