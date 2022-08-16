@@ -10,12 +10,11 @@ Web app will contain simple views, complexity in data normalization and sql join
 
 ## MVP
 
-Landing page view.
-Login/register view.
-Multi-Page database query view.
-
-    + sub view add form
-    + sub view edit form
+Landing page view.\
+Login/register view.\
+Multi-Page database query view.\
+- sub view add form
+- sub view edit form
 
 404 view.
 
